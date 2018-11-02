@@ -1,6 +1,6 @@
 {
-    "app_id": "TODO: greeting-xxxxx",
+    "app_id": "new_greeting-zethi",
     "config_version": 20180301,
-    "name": "greeting",
+    "name": "new_greeting",
     "security": {}
 }

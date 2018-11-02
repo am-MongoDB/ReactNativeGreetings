@@ -1,9 +1,9 @@
 {
-    "id": "5bdb3c36dced5fafa6a98023",
+    "id": "5bdc4afadced5fafa615d6f8",
     "name": "mongodb-atlas",
     "type": "mongodb-atlas",
     "config": {
-        "clusterName": "TODO: Cluster0",
+        "clusterName": "Cluster0",
         "wireProtocolEnabled": false
     },
     "version": 1

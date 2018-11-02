@@ -60,7 +60,7 @@ export default class App extends React.Component {
   }
 
   _loadClient() {
-    Stitch.initializeDefaultAppClient('TODO: greeting-xxxx').then(client => {
+    Stitch.initializeDefaultAppClient('new_greeting-zethi').then(client => {
       this.setState({ client });
       const dbClient = client.getServiceClient(MongoDB.RemoteMongoClient.factory, "mongodb-atlas");
       this.setState({atlasClient : dbClient});
